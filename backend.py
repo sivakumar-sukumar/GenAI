@@ -32,11 +32,10 @@ collection = db['vectors']
 arg1 = 'pls summarize about wild animals in southern india'
 #arg1 = 'print the table for India’s Floral Species Diversity and Endemism from EnviStats India'
 OPENAI_API_KEY = "***KEY***" #Pass your key here
-wildlife = 'https://cwsindia.org/publication/'
-wl = 'https://en.wikipedia.org/wiki/Wildlife_of_India'
-test_url = 'https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_publication/EnviStats/Chap7-Biodiversity_envst22.pdf'
-test_url1 = 'https://zsi.gov.in/uploads/documents/importantLinks/english/Annual_Report_2020-21.pdf'  # takes lot of power since it contains images
-test_url2 = 'https://moef.gov.in/uploads/2023/05/Annual-Report-English-2023-24.pdf'  # # takes lot of power since it contains images
+URLS = ['https://cwsindia.org/publication/',
+        'https://en.wikipedia.org/wiki/Wildlife_of_India',
+        'https://www.mospi.gov.in/sites/default/files/reports_and_publication/statistical_publication/EnviStats/Chap7-Biodiversity_envst22.pdf',
+        'https://moef.gov.in/uploads/2023/05/Annual-Report-English-2023-24.pdf']  # # takes lot of power since it contains images
 
 def google(query):
     links = []
