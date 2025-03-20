@@ -4,24 +4,16 @@ This is a chatbot to retreive information about documents on Wildlife and Biodiv
 
 
 Tech Stack Recommendations:
-Frontend (UI)  - Cisco Webex Bot API, Adaptive Cards
-User Interaction Layer - FastAPI, Flask, Webex Webhooks
-Data Acquisition Layer - BeautifulSoup, Scrapy, Playwright, Semantic Scholar API, CORE API 
-Data Processing Layer  - NLP Libraries (spaCy, NLTK), LangChain, Pinecone/Weaviate/FAISS
-GenAI Model Layer - OpenAI GPT, Llama
-Data Presentation Layer - Markdown Formatting, Adaptive Cards
 
-| Rank                 |         THING-TO-RANK                 |
-|-----:                |        ---------------                |
-|     Frontend (UI)|   |   Cisco Webex Bot API, Adaptive Cards  |
-|     2|               |
-|     3|               |
+| Layer | Tech Stack |
+| --- | --- |
+| Frontend (UI) | Cisco Webex Bot API, Adaptive Cards |
+| User Interaction Layer | FastAPI, Flask, Webex Webhooks |
+| Data Acquisition Layer | BeautifulSoup, Scrapy, Playwright, Semantic Scholar API, CORE API  |
+| Data Processing Laye | NLP Libraries (spaCy, NLTK), LangChain, Pinecone/Weaviate/FAISS |
+| GenAI Model Layer | OpenAI GPT, Llama |
+| Data Presentation Layer | Markdown Formatting, Adaptive Cards |
 
-| Rank | Languages |
-|-----:|-----------|
-|     Frontend (UI)|  | Cisco Webex Bot API, Adaptive Cards|
-|     2| Python    |
-|     3| SQL       |
 
 Without Frontend backend.py can be run from CLI
 With webex Frontend frontend.py to be run which calls the backend AI_Mongo.py
