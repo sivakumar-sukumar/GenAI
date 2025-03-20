@@ -10,7 +10,13 @@ Data Acquisition Layer - BeautifulSoup, Scrapy, Playwright, Semantic Scholar API
 Data Processing Layer  - NLP Libraries (spaCy, NLTK), LangChain, Pinecone/Weaviate/FAISS
 GenAI Model Layer - OpenAI GPT, Llama
 Data Presentation Layer - Markdown Formatting, Adaptive Cards
- 
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
 Without Frontend backend.py can be run from CLI
 With webex Frontend frontend.py to be run which calls the backend AI_Mongo.py
 
