@@ -11,8 +11,8 @@ Data Processing Layer  - NLP Libraries (spaCy, NLTK), LangChain, Pinecone/Weavia
 GenAI Model Layer - OpenAI GPT, Llama
 Data Presentation Layer - Markdown Formatting, Adaptive Cards
  
-Without Frontend AI_Mongo.py can be run from CLI
-With webex Frontend webex_bot.py to be run which calls the backend AI_Mongo.py
+Without Frontend backend.py can be run from CLI
+With webex Frontend frontend.py to be run which calls the backend AI_Mongo.py
 
 Sample Output:
 
