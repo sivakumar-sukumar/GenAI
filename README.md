@@ -1,2 +1,1 @@
 # GenAI
-Sustainathon CWS
