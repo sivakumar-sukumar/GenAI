@@ -17,6 +17,12 @@ Data Presentation Layer - Markdown Formatting, Adaptive Cards
 |     2|               |
 |     3|               |
 
+| Rank | Languages |
+|-----:|-----------|
+|     Frontend (UI)|  | Cisco Webex Bot API, Adaptive Cards|
+|     2| Python    |
+|     3| SQL       |
+
 Without Frontend backend.py can be run from CLI
 With webex Frontend frontend.py to be run which calls the backend AI_Mongo.py
 
