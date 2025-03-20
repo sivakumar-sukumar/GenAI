@@ -3,7 +3,7 @@
 This is a chatbot to retreive information about documents on Wildlife and Biodiversity in India.
 
 
-Tech Stack Recommendations:
+**Tech Stack Recommendations:**
 
 | Layer | Tech Stack |
 | --- | --- |
@@ -20,19 +20,19 @@ With webex Frontend frontend.py to be run which calls the backend AI_Mongo.py
 
 Sample Output:
 
-Question:
-you are a wildlife conservative scientist. I want to know the publication by Mr. Shivakumar only?
+<ins> Question: </ins> <br> <br>
+I want to know the publication by Mr. Shivakumar only?
 
-Answer:
+<ins> Answer: </ins> <br> <br>
 There are two publications by Mr. Shivakumar:
 
 1. Charting risk pathways of leopard attacks on people: A decision tree approach. Human Dimensions (2025)
 2. Examining leopard attacks: spatio-temporal clustering of human-leopard conflicts in the Western Ghats, India. (2023)
 
-Question:
+<ins> Question: </ins> <br> <br>
 what the issues and threats to Wildlife Conservation india?
 
-Answer:
+<ins> Answer: </ins> <br> <br>
 As a wildlife conservationist in India, I can identify several key issues and threats to wildlife conservation in the country. Some of the major concerns include:
 
 1. Habitat loss and fragmentation due to deforestation, urbanization, and infrastructure development.
@@ -51,3 +51,9 @@ Some specific examples of threatened species in India include:
 * The Asian elephant, which is vulnerable due to habitat loss, poaching, and human-elephant conflict.
 
 Overall, addressing these issues will require a coordinated effort from governments, local communities, conservation organizations, and individuals to protect India's rich biodiversity and ensure the long-term survival of its wildlife populations.
+
+<ins> Question: </ins> <br> <br>
+What is the publication by brittani?
+
+<ins> Answer: </ins> <br> <br>
+According to the text, Brittani Sponaugle published an article titled "The Importance of Wildlife: Human Survival Depends on It" in May 2014.
