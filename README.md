@@ -11,9 +11,9 @@ Data Processing Layer  - NLP Libraries (spaCy, NLTK), LangChain, Pinecone/Weavia
 GenAI Model Layer - OpenAI GPT, Llama
 Data Presentation Layer - Markdown Formatting, Adaptive Cards
 
-| Rank                 | THING-TO-RANK |
-|-----:                |---------------|
-|     Frontend (UI)|               |Cisco Webex Bot API, Adaptive Cards
+| Rank                 |         THING-TO-RANK             |
+|-----:                |        ---------------            |
+|     Frontend (UI)|   |Cisco Webex Bot API, Adaptive Cards
 |     2|               |
 |     3|               |
 
